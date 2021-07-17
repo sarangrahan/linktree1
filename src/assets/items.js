@@ -16,7 +16,7 @@ const items = [{
     "title": "GitHub",
     "subtitle": "@devgossips | 🏠 of my open-source projects",
     "image": github,
-    "link": "https://github.com/devgossips"
+    "link": "https://github.com"
 },
 {
     "title": "Instagram",
@@ -34,7 +34,7 @@ const items = [{
     "title": "YouTube",
     "subtitle": "@Sagnik Sahoo | Official channel of mine",
     "image": youtube,
-    "link": "https://www.youtube.com/channel/UCOUa9hvd4sJWQWQRIQctbSg"
+    "link": "https://www.youtube.com"
 },
 
 {
@@ -47,7 +47,7 @@ const items = [{
     "title": "Telegram",
     "subtitle": "@virtuonic | Chat with me instantly, Don't hesitate! ",
     "image": telegram,
-    "link": "https://telegram.me/virtuonic"
+    "link": "https://telegram.me"
 }]
 
 export default items
